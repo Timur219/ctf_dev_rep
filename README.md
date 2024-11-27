@@ -1,3 +1,4 @@
+```
 CTF_competition_name/                  
 ├── category-complexity-vulnerability-task_name/  # Категория-сложность-уязвимость-название_таска
 │   ├── deploy/                        # Все файлы таска
@@ -12,3 +13,4 @@ CTF_competition_name/
 │   │   └── image/                     # Скриншоты с процессом решения
 │   │       └── example.png           
 │   └── README.md                      # Идея и описание таска
+```
